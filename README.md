@@ -1,0 +1,2 @@
+# sockjsExt
+让sockjs或者websocket用的和socketIO一样爽
